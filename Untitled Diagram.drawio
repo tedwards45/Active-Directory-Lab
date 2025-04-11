@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="u-Ojrt-izxkH3ZtMXK-b-19" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 4;endArrow=none;startFill=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="u-Ojrt-izxkH3ZtMXK-b-1" target="u-Ojrt-izxkH3ZtMXK-b-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="u-Ojrt-izxkH3ZtMXK-b-1" value="Active Directory IP: 192.168.10.7&lt;div&gt;Splunk Universal Forwarder&lt;/div&gt;&lt;div&gt;Sysmon&lt;/div&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.traditional_server;" vertex="1" parent="1">
           <mxGeometry x="170" y="429.5" width="45" height="78" as="geometry" />
         </mxCell>
@@ -11,6 +14,9 @@
           <mxGeometry x="170" y="240" width="45" height="78" as="geometry" />
         </mxCell>
         <mxCell id="u-Ojrt-izxkH3ZtMXK-b-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u-Ojrt-izxkH3ZtMXK-b-3" target="u-Ojrt-izxkH3ZtMXK-b-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u-Ojrt-izxkH3ZtMXK-b-18" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 4;shadow=1;fillColor=#d5e8d4;strokeColor=#82b366;endArrow=none;startFill=0;" edge="1" parent="1" source="u-Ojrt-izxkH3ZtMXK-b-3" target="u-Ojrt-izxkH3ZtMXK-b-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="u-Ojrt-izxkH3ZtMXK-b-3" value="Windows 10 (Target Machine) IP: DHCP&lt;div&gt;Splunk Universal Forwarder&lt;/div&gt;&lt;div&gt;Sysmon&lt;/div&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.computer;pointerEvents=1;" vertex="1" parent="1">
