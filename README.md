@@ -21,7 +21,7 @@ As part of my ongoing education in Digital Forensics and Cybersecurity, this lab
 **Reference Screenshot Above:**  
 In this step, click **“Create a Resource”**. This will allow you to create the **Resource Group** that will contain your Windows Server virtual machine and related resources. 
 
--> Then you want to give your VM a Name: For example, my lab name is **labIT** 
+-> Then you want to give your VM & Resource Group a Name: For example, my lab name is **labIT** 
 
 
     -Note: Name can be whatever you like to name your VM within the criteria 
